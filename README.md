@@ -1,7 +1,7 @@
-<h1 align="center">🎨 Коллекция Дизайнов Сайтов</h1>
+![1](https://github.com/user-attachments/assets/f873013d-e6dd-41c8-b593-acb401b7e886)<h1 align="center">🎨 Коллекция Дизайнов Сайтов</h1>
 
 <p align="center">
-  Исследуйте вдохновляющие макеты и концепции веб-дизайна.
+  Простые варианты веб-дизайна
 </p>
 
 <div align="center">
@@ -10,34 +10,44 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; padding: 20px; max-width: 1200px; margin: 0 auto;">
   <div style="overflow: hidden; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://github.com/user-attachments/assets/4d8d31ab-f574-47d5-9baf-a07af35fa199" alt="Дизайн 1" style="width: 100%; height: auto; display: block;">
+    ![1](https://github.com/user-attachments/assets/8ad5c33f-6cb6-49ae-845d-0a6f0535410b)
+
   </div>
   <div style="overflow: hidden; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://github.com/user-attachments/assets/dbff934e-28b3-46ab-98de-86f8d111e76c" alt="Дизайн 2" style="width: 100%; height: auto; display: block;">
+    ![2](https://github.com/user-attachments/assets/b137c3d3-dd7c-451e-bab1-cd4df2b53d04)
+
   </div>
   <div style="overflow: hidden; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://github.com/user-attachments/assets/23bb319b-a40e-4508-bdee-01880487437f" alt="Дизайн 3" style="width: 100%; height: auto; display: block;">
+    ![3](https://github.com/user-attachments/assets/4aa09517-53a1-46f0-822a-2b9eb3b9b61f)
+
   </div>
   <div style="overflow: hidden; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://github.com/user-attachments/assets/32565a14-a180-4296-ab6c-eeb9aac0fe8d" alt="Дизайн 4" style="width: 100%; height: auto; display: block;">
+    ![4](https://github.com/user-attachments/assets/4cbde7f6-3b11-4a7e-b5f0-7ec18e330f90)
+
   </div>
   <div style="overflow: hidden; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://github.com/user-attachments/assets/25be868d-2855-417e-8a9e-eeca5b5cee4c" alt="Дизайн 5" style="width: 100%; height: auto; display: block;">
+    ![5](https://github.com/user-attachments/assets/5d22fb0e-e165-4f25-965c-043a41c928b2)
+
   </div>
   <div style="overflow: hidden; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://github.com/user-attachments/assets/7a30f04f-a448-469d-8401-45f848800503" alt="Дизайн 6" style="width: 100%; height: auto; display: block;">
+    ![6](https://github.com/user-attachments/assets/9534e5aa-66e0-406c-9704-bc085595e6d1)
+
   </div>
   <div style="overflow: hidden; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://github.com/user-attachments/assets/4d69d353-eba1-464a-ac46-3d5a79a3cd64" alt="Дизайн 7" style="width: 100%; height: auto; display: block;">
+    ![7](https://github.com/user-attachments/assets/6a1e641f-69c8-4411-bd80-a6dccce165d7)
+
   </div>
   <div style="overflow: hidden; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://github.com/user-attachments/assets/77588ccf-ef60-4510-91ec-1217280b2fee" alt="Дизайн 8" style="width: 100%; height: auto; display: block;">
+    ![8](https://github.com/user-attachments/assets/21c9e571-e101-4c20-b3ff-889274152c30)
+
   </div>
   <div style="overflow: hidden; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://github.com/user-attachments/assets/2c235212-bb1f-4af2-9bc0-5a6e60e00d30" alt="Дизайн 9" style="width: 100%; height: auto; display: block;">
+    ![9](https://github.com/user-attachments/assets/929aba9b-5f08-41ca-ac79-815f214ecb0f)
+
   </div>
   <div style="overflow: hidden; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://github.com/user-attachments/assets/ffb12c4e-e15e-418e-a67b-e18a00e5c8f5" alt="Дизайн 0" style="width: 100%; height: auto; display: block;">
+    ![0](https://github.com/user-attachments/assets/e34aecaa-adee-4296-9364-34777434621d)
+
   </div>
 </div>
 
